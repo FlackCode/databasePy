@@ -1,0 +1,31 @@
+{
+    "flack": {
+        "First Name": "Flack",
+        "Last Name": "Codes",
+        "Hobbies": [
+            "Coding",
+            "Playing Guitar"
+        ],
+        "Age": 17
+    },
+    "2lay": {
+        "First Name": "Ashley",
+        "Last Name": "TMW",
+        "Hobbies": [
+            "Coding",
+            "Games",
+            "Music"
+        ],
+        "Age": 17
+    },
+    "TestUser": {
+        "First Name": "Hi guys",
+        "Last Name": "This is just a test user",
+        "Hobbies": [
+            "Idk",
+            " Coding",
+            " ILovePy"
+        ],
+        "Age": 69
+    }
+}
